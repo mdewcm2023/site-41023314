@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 倉儲: https://github.com/mdewcm2023/site-41023314.git \n 網站:https://mdewcm2023.github.io/site-41023314.git \n', 'tags': '', 'url': 'About.html'}, {'title': '權限', 'text': '近端倉儲的設定檔案:倉儲目錄下.git中的config,代表倉儲的configuration.file(設定檔案) \n', 'tags': '', 'url': '權限.html'}]};
